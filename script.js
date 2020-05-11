@@ -14,6 +14,3 @@ switch (hobby){
     default:
         console.log(firstName + ' does something else!');
     }
-
-
- 
